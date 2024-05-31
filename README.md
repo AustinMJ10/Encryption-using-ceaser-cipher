@@ -1,4 +1,3 @@
-# PRODIGY_CS_01
 Welcome to my Python program for Caesar Cipher encryption and decryption! This repository contains a simple yet powerful Python script that allows you to encrypt and decrypt text messages using the Caesar Cipher algorithm. With just a few lines of code, you can secure your messages with this time-tested encryption method.
 
 The Caesar Cipher algorithm works by shifting each letter in the plaintext message by a fixed number of positions in the alphabet. This shift value, known as the "key," determines the level of encryption applied to the message. Whether you're looking to protect sensitive information or simply explore the fundamentals of cryptography, this program offers a hands-on learning experience.
